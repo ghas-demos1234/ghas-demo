@@ -1,6 +1,7 @@
 AZURE_KEY = "AZURE_1234567890abcdefghijklmnop"
 GITHUB_TOKEN = "ghp_1234567890abcdefghijklmnopqrstuvwxyz"
 test = "ANUSHKA_ABC123ABZ9"
+test12 = "ANUSHKA_ABC123AXY9"
 my_password = "P@ssw0rd1234"
 GITHUB_TOKEN1 = "ghp_1234567890abcdefghijklmnopqrsdfnndfb"
 
